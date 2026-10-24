@@ -1,0 +1,27 @@
+# Patient data and reconstructive intermediates
+*.vcf
+*.vcf.gz
+*.vcf.bgz
+*.bcf
+*.tbi
+*.csi
+*.bam
+*.cram
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+*.docx
+*.xlsx
+*genotype*.tsv
+*variant*.tsv
+*pair_candidates*.tsv
+*source_gate_LOCAL_ONLY*
+*source_gate*.tsv
+*patient*.tsv
+*clinical*.txt
+private/
+data/
+cache/
+__pycache__/
+*.py[cod]
